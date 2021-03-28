@@ -10,6 +10,7 @@ Analysis
 Results:
 2017
 	After running my code for 2017 and 2018, we can see notable differences in how the groups stocks performed in each given year. In 2017, almost all the stocks saw positive returns. Eleven out of the twelve in fact. Notably, nine of the twelve stocks preformed better than the S&P 500. Four of the stocks even had gains of over 100%. 
+
 2017 Data Chart 
 
 
@@ -34,7 +35,9 @@ However, in 2018, almost all the stocks saw negative returns with the only excep
 Timer
 	The pop-up timer displayed significant differences between the run time for the original code and the refactored code. In fact, the refactored code ran in less than a second while the original code took a walloping 36 seconds to run. 
 
-Refactored Code Timer                                                         
+Refactored Code Timer    
+
+https://github.com/jkhera83/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png
 
 
 
