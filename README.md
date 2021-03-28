@@ -12,8 +12,7 @@ Results:
 	After running my code for 2017 and 2018, we can see notable differences in how the groups stocks performed in each given year. In 2017, almost all the stocks saw positive returns. Eleven out of the twelve in fact. Notably, nine of the twelve stocks preformed better than the S&P 500. Four of the stocks even had gains of over 100%. 
 
 2017 Data Chart 
-
-
+https://github.com/jkhera83/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png
 
 	
 
