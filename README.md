@@ -34,6 +34,8 @@ However, in 2018, almost all the stocks saw negative returns with the only excep
 
 2018 Data Chart
 
+https://github.com/jkhera83/Stock-Analysis/blob/main/Resources/VBA_Challenge_2018.png
+
 
 
 
